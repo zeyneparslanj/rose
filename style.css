@@ -55,6 +55,7 @@
     animation: slideIn 1s forwards ease-out;
     margin: 10px;
     font-size: 70%;
+    color: #111;
   }
 
   .word:nth-child(1) {
